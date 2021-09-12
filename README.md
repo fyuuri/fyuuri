@@ -14,7 +14,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br/>
-![Anagh's github status](https://github-readme-stats.vercel.app/api?username=fyuuri_private=true&show_icons=true&theme=synthwave)<a href="https://github.com/fyuuri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagh534&layout=compact&theme=tokyonight"/></a>
+![![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **anagh534/anagh534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
