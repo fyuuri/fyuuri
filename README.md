@@ -18,4 +18,4 @@
 
 ###&nbsp;Connect with Me
 
-<a href="mailto:nick.kutkin@gmail.com"><img src="https://img.shields.io/badge/-anaghkrkkl@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:nick.kutkin@gmail.com"><img src="https://img.shields.io/badge/-nick.kutkin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
