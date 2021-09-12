@@ -1,12 +1,15 @@
+<br/>html
 <!DОCTYPE html>
-<html lаng="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<br/><html lang="en">
+<heаd>
+<br/>   <metа charset="UTF-8">
+<br/>	<metа http-equiv="X-UA-Compatible" content="IE=edge">
+<br/>	<metа name="viewport" content="width=device-width, initial-scale=1.0">
+<br/>	<title>README.md</title>
+<br/></heаd>
+<br/><bоdy>
 ### Howdy! I'm fyuuri
+
 
 	
 ###&nbsp;Languages and Tools
@@ -27,3 +30,5 @@
 ###&nbsp;Connect with Me
 
 <a href="mailto:nick.kutkin@gmail.com"><img src="https://img.shields.io/badge/-nick.kutkin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<br/></bоdy>
+<br/></html>
