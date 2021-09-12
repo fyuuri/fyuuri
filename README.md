@@ -14,12 +14,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+!(https://github-readme-stats.vercel.app/api?username=fyuuri)](https://github.com/anuraghazra/github-readme-stats)
+
 ###&nbsp;Connect with Me
 
 <a href="mailto:nick.kutkin@gmail.com"><img src="https://img.shields.io/badge/-anaghkrkkl@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
