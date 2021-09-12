@@ -9,18 +9,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 <br/>
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-61DAFB?style=for-the-badge&logo=yarn)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br/>
-![Anagh's github status](https://github-readme-stats.vercel.app/api?username=anagh534&count_private=true&show_icons=true&theme=synthwave)<a href="https://github.com/anagh534"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagh534&layout=compact&theme=tokyonight"/></a>
+![Anagh's github status](https://github-readme-stats.vercel.app/api?username=fyuuri_private=true&show_icons=true&theme=synthwave)<a href="https://github.com/fyuuri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagh534&layout=compact&theme=tokyonight"/></a>
 <!--
 **anagh534/anagh534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
